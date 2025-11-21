@@ -1,0 +1,7 @@
+Title: Designing Multi-Cloud Ready Interfaces
+Tags: architecture, cloud, notes
+Summary: How we abstracted GCP + AWS behind a configuration-driven interface so migrations don’t hurt.
+
+---
+Body text goes here. Everything after the --- line is treated as the article content.
+Feel free to write Markdown-ish paragraphs; they’ll render in the inline reader as preformatted text.
