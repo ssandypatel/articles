@@ -32,6 +32,7 @@ Every `.txt` file follows this structure:
 ```
 Title: <title of the note>
 Tags: <comma-separated tags>
+Summary: <summary of your note>
 
 <body content starts here>
 ```
@@ -41,6 +42,7 @@ Tags: <comma-separated tags>
 ```
 Title: Importance of Scientific Temperament  
 Tags: science, society, india
+Summary: A brief abstract about this article
 
 A detailed reflection on why encouraging rational thinking is essential for national progress...
 ```
@@ -55,7 +57,8 @@ A template is provided to make creating new notes easier.
 
 ```
 Title: 
-Tags: 
+Tags:
+Summary:
 
 <Write your note body here>
 ```
